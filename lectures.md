@@ -142,3 +142,206 @@ These are universal claims, they do not follow from moral relativism. A moral re
 
 
 # 2. Decision theory & Game theory
+
+- Individual decision theory: studies decision making when actors
+are confronted with various ‘states of nature’.
+(sometimes ‘decion theory’ in a narrower sense)
+- Game theory: studies decision making when actors interact with
+each other.
+-  Social choice theory: studies how to derive a collective decision
+from individual preferences. (not addressed in this course)
+
+## The (Rational) Actor
+Mental states, two basic categories:
+
+- Beliefs: mind-to-world direction of fit
+  -  Mental content must mirror the world
+- Desires: world-to-mind direction of fit
+  -  World must mirror the mental content (You have to grab it in the world to get it)
+
+We assume in game theory are rational, this isn't necessarily the case.
+
+### Actors have
+- desires
+- beliefs
+-  \+ rationality
+
+Formalised in decision theory:
+- preferences over outcomes
+- assign probabilities to outcomes
+- \+ these satisfy consistency requirements (axioms of the theory)
+
+
+## Descriptive vs normative
+We will approach it normatively, how should an agent behave if it is rational? We're not going to survey people or something.
+
+**Concept of rationality**: Given the goals of a person, what to do next,
+in a rational way?
+
+## Formalize the decision problem
+
+1. Acts/stategies
+2. States (situations the world will be in)
+3. Outcomes
+
+Action: function(state) = outcome
+
+## Individual decision making
+
+### Example
+
+|  |Recession | No recession|
+|---|------|----|----|
+|Dance academy | poor | exciting |
+|Medicine |reasonably good |good|
+
+### Decision making under ignorance
+The actor knows about the different states of the world, but doesn't know the probabilities of each of them
+
+ - Dominance
+ - **Maximin**
+ - Insufficient reason
+ - etc.
+
+#### maximin
+Avoid the worst case outcome. And **maximize** the lowest possible value
+
+### Decision making under risk
+The actor **does** know about the probabilities of the states of the world.
+
+**standard rule**: maximize expected utility = max. {prob . utility}
+
+Can also be done with money or time, iff: **utility is a linear function in this factor**
+
+#### Utility scales and axioms
+
+##### Ordinal
+The preferences must statisfy just 3 axioms
+- asymemtry
+- completeness
+- transitivity
+
+##### Interval utility function
+The preferences must statisfy 5 axioms
+- asymemtry
+- completeness
+- transitivity
+- indepenence
+- continuity
+
+if intervals between 2 different items/objects are equal, then the intervals are comparable. Ordinal numbers cannot be used in calculations, they're just used for ranking as in higher or lower.
+
+##### Von neumann & Morgenstern interval scale
+
+Construct a scale by taking two extremes – say, a top item and
+a lousy item – and compare the choice alternatives with
+lotteries over these extremes.
+
+**example**
+
+firstly rank the alternatives:
+1. Porsche
+2. Volkswagen
+3. Skoda
+
+Now choose a top item & a lousy item to construct the scale,
+e.g. Ferrari & Honda
+
+
+Ask the actor what lottery over the Ferrari (F) and the Honda (H) would leave him/her
+indifferent to a Porsche / Volkswagen / Skoda for certain.
+
+A says:
+
+| Car | Ferrari | Honda |
+|-----|-----|------|
+|Porsche   |  0,8 F | 0,2 H |  
+|Volkswagen  | 0,5 F | 0,5 H |
+|Skoda       | 0,2 F | 0,8 H |
+
+
+Assume U(Ferrari) = 100, U(Honda) = 0, then
+
+|||
+--------|-------
+U (Porsche) |       0,8.100 + 0,2.0 = 80  
+U (Volkswagen) |    0,5.100 + 0,5.0 = 50  
+U (Skoda) |         0,2.100 + 0,8.0 = 20
+
+So when preferences over a set of alternatives of an actor satisfy:
+- asymemtry
+- completeness
+- transitivity
+- indepenence
+- continuity
+
+Then one can derive a cardinal (interval) VNM utility function: then one can assign interval numbers to the alternatives.
+
+**Application VNM**
+
+Policy makers in health care need a measure for the quality of health
+states from the perspective of patients.
+
+For example: *Quality Adjusted Life Year = life expectancy x quality*
+remaining years
+
+Practically they draw a line and put the ordinal scale of diseases on there. Downside: People tend to have biases. They tend to spread the diseases over the scale and to have extremes
+
+
+## Game Theory
+
+Analyses interaction-structure between **individuals** and
+**solution concepts**
+
+Different versions
+- Sequential, first one actor chooses then the other
+- Iteratively
+
+
+### Iterative games
+
+One shot PD leads to mutual defection and a collectively suboptimal
+equililibrium.
+Iterative Prisoners Delimma offers cooperative possibilities
+(when indefinitively repeated, otherwise induction possible that will lead to dominant strategy)
+
+### Tit for that-like strategies
+
+
+1. Start with cooperation.
+2.  In each next round mirror what the other player did in the previous round.
+
+Axelrod (1984): Tit for Tat most successful strategy in computer tournament.
+
+Also:
+
+- Reputation plays a role
+- Information can also come from third parties (indirect reciprocity)
+
+Other variants:
+
+- Defect
+- Win, shift, lose stay (also in animal kingdom)
+- 50% cooperate, 50% defect
+
+
+### Stag Hunt
+||Stag |Hare|
+|--|--|--|
+|**Stag** |3, 3| 0, 2|
+|**Hare** |2, 0 |1, 1|
+
+Stag: Higher pay-off, with risk  
+Hare: lower pay-off, but guarenteed profit
+
+Different strategies: Maximize pay-off vs risk-avoidance
+
+Cooperation requires trust - Stag hunt game a.k.a. Assurance Game  
+In evolutionary simulations with random pairing: hare hunters take over the population,
+stag hunters go extinct.
+
+### Nash equilibrium
+A combination of strategies is a Nash Equilibrium (NE) if neither party
+has a reason to unilaterally change its strategy.
+
+Stag Hunt: [Stag, Stag] & [Hare, Hare] are both Nash Equilibria.
