@@ -191,7 +191,7 @@ Action: function(state) = outcome
 ### Example
 
 |  |Recession | No recession|
-|---|------|----|----|
+|---|------|----|
 |Dance academy | poor | exciting |
 |Medicine |reasonably good |good|
 
