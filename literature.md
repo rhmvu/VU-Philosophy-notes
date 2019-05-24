@@ -78,6 +78,53 @@ Iterated games have too many equalibria to select the best one.
 
 # 3. Rachels ch. 7 and 8
 
+## The utilitarian approach
+
+Morality is about making the world as happy as possible.
+The principe of utility: in all circumstances, maximize happiness. It isn't following a Bible book or a set of static rules.
+
+Bentham: people should be free to do whatever they want - whatever they think will make them happy - so long as they are not harming others.
+
+Mill:
+"the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others."
+
+Utilitiarians value pleasure a lot.
+
+Animals can suffer, thus they can be unhappy. In which case the Utilitiarians will say morality applies to animals as well. Humans and nonhumans are equally entitled to moral concern.
+
+
+## The debate over utilitarianism
+
+
+Equal amounts of happiness always count equally. Most moral philosophers reject the classical utilitarianism theory.
+
+In utilitarianism right actions are things that bring good. Good is happiness according to the utilitarian. And happiness means pleasure.
+
+Other things besides happiness are also of importance, such as friendship and artistic creativity
+
+According to utilitarianism consequences of actions, namely hapiness, is all that matters.
+
+1. It Conflicts with justice. If riots occur after a crime because of race. It would be beneficial for the utilitarian to convict a innocent person for example. This is in conflict with Justice.
+2. It conflicts with rights. If a woman is undressing and one takes pictures in secret and shares it among his peers, the peers would feel happy, while the unaware lady isn't unhappier. This would he allowed under utilitarianism.
+3. Backward looking. Utilitarianism makes the past irrelevant. Thus we can continue canceling appointments of you with another for example, as long the sum of happyness is positive.
+
+**Should we be equally concerned by everyone?**
+
+So, should we treat everyone's hapiness as equal?
+
+No,
+1. The charge that utilitarianism is too demanding. In the western world we should get as poor as the African fellow, who could spend our money in a better way. We cannot make our own lives meaningful anymore because of the requirement to promote general welfare.
+2. The charge that utilitarianism disrupts our personal relationships. We would like to treat friends and family with priority over others. Utilitarianism forbirds this.
+
+
+**Defenses of utilitarianism**
+
+1. Contesting the consequences. In most of the situations long term consequences invalidate the counter examples. Only some specific counter examples would target the theory. Weak defense.
+2. The principe of utility is a guide for choosing rules, not acts. Called rule-utilitarianism. But what if a "forbidden" act would greatly increase the overall good? We cannot patch this flaw in rule-utilitarianism
+3. The whole "common sense" is wrong
+  - all values have a utilitarian basis
+  - our gut reactions can't be trusted when cases are exceptional. Some lies do bring us hapiness for example.
+  - we should focus on all the consequences.
 
 # 4. Rachels ch. 9, 10 and 6
 

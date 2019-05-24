@@ -344,4 +344,185 @@ stag hunters go extinct.
 A combination of strategies is a Nash Equilibrium (NE) if neither party
 has a reason to unilaterally change its strategy.
 
-Stag Hunt: [Stag, Stag] & [Hare, Hare] are both Nash Equilibria.
+Stag Hunt: *[Stag, Stag]* & *[Hare, Hare]* are both Nash Equilibria.
+
+### Evolutionary game theory
+
+Pay off isn't utility but it is the number of reproduction.
+
+Agents follow fixed strategies. After each round there is reproduction, older generations die.
+
+**Evolutionary stable strategy (ESS)**: population with species that follow this strategy cannot be invaded by another species that follow another strategy.
+
+ESS is also a Nash Equalibrium. However, not every NE is an ESS
+
+
+
+
+
+
+# 3. Consequentialism and Utilitarianism
+
+## Normative ethical theories
+1. Consequentialism, Utilitarianism *(Moral quality found in the consequences of the action)*
+2. Deontology *(Moral quality found in the motive, the intention or the action itself)*
+3. Social contract theory *(Moral quality depends on the interdependency of the consequences)*
+4. Virtue ethics
+
+
+## Consequentialism
+
+ **Moral worth is in the consequences of an action.**
+
+ - That is, the values that are realized in this action (e.g. freedom, wellbeing, knowledge)
+ - An action is morally good if it has good consequences, given the possible actions.
+ - This can be interpreted monistic or pluralistic
+
+
+ ### Utilitarianism
+ 
+ Subset of consequentialism
+ - Monistic: only utility counts
+ - Maximizes / promotes utility
+ - What is utility or wellbeing?
+   - Hedonism 
+   - Preference statisfaction
+   - Objective list
+
+#### Procedure
+1. Define the concept of utility/wellbeing
+  - Hedonism / preference statisfaction / objective list
+2. What are the possible alternative actions?
+3. Determine for each alternative action its total expected utility
+  - Expected utility = probability x utility
+  - Total = Aggegrate of all those who are involved
+4. The action with the max total utility = morally good action = one's obligation to perform.
+
+#### characteristics
+
+- Impartiality: no one is privileged. Anyone who can suffer belong to the moral community.
+- Traditional moral rules are not absolute. Those rules can be interpreted as flexible, as long as we are happier ever after.
+- Forward looking: consequences are ahead, in the future. The past is irrelevant. We punish someone so he could not  harm others in the future, not because he deserves punishment
+- Insatiable: any further increase of utility is better, and morally required.
+
+
+
+#### Case: Big data for growth and wellbeing
+
+##### How can this data be used?
+
+reduces the reliance on expensive large surveys. 
+
+governments and companies can target the low mood / life satisfaction areas with specific policies.
+
+
+##### Philsophical issues
+
+-  Which concept of well-being? For which use?
+-  How to interpret low correlation mood/sentiment measures with life satisfaction?
+-  Target the low mood / life satisfaction areas with specific policies seems to
+presuppose utilitarian calculus: justified?
+-  Most data are retrieved without consent.
+- Ability to measure some proxies well may (unwillingly) move other important things to the background.
+- How to measure other important things?
+
+##### General criticism and discussion
+
+1. Is utility all that matters? Aren't there other intrensic values? Friendship e.g.?
+2. Rules like "thou shalt not steal" are inflexible. They concern fundamental rights that cannot be traded against considerations of utility
+3. Heavy information processing: for each situation calculate expected utility
+4. Integrity (and seperateness) of persons: Individuals are more than carriers of utility. It is possible that ones good is traded for the good of a larger group of people.
+5. Backward looking reasons are important. e.g. one deserves punishment for what one has done. Punish to punish and to scare people: don't do these things.
+6. Special relations are important: We like to prioritize people around us like family and friends. For a utilitarian this isn't possible because everyone is inherently equal.
+
+##### Responses utilitarianism
+
+- Bite the bullet: Most criticism is an irrational product of our evolutionary and cultural past.
+- Modifications: Rule-utilitarianism
+
+##### Rule utilitarianism
+
+- Problem for rule utilitarianism: rule fetishism: must a rule always be followed? no matter the circumstances? Even if it is obvious that it does not yield max utility?
+- What to do in an actual situation is derived from a hypothetical situation?
+  - e.g. Can't steal medicine because of a rule... One dies in civil war because of a hypothetical rule
+- Does it provide the appropriate moral justification?
+  - I just saved you instead of 2 others because of a rule utilitarian rule...
+
+
+
+
+
+# 4. Deontology and Social Contract Theory
+
+## Trolly problem
+  Consequentialist: Save the lives of the 5 and kill 1
+
+
+## Deontology
+
+  Founding father: Immanuel Kant
+  
+  "Duty ethics"
+  
+  Kant: *"moral worth is not to be found in the consequences of an action."*  
+  E.g. lying or stealing is not bad because of the consequences that these actions may happen to have, but because they are bad actions, period.
+
+  If you act solely because of duty and out of obligation it is a moral action, not if you do something for self gain or out of friendship.
+
+  Doing the right thing looks pretty formal now.   
+  Principle udnerlying the right intention = lawlike, like a natural law.  
+  Only this law is a law that humans impose on ourselves.
+
+
+  ### Differences between humans and animals
+
+  Kant: the rational nature of human creatures
+
+  Animals are driven by inclinations and impulses -> subject to natural laws
+
+  But humans can also impose laws on themselves, and follow them.
+
+### Kant and Newton
+- Newton: Everything in the universe is subject to natural laws  
+- Kant: morality has universal scope and necessity, just like Newton's laws.  
+  - Only: humans impose the laws on themselves.
+
+### Categorical Imperative (1)
+
+Universal law formulation
+
+*Act only according to that maxim by which you can at the same time
+will that it should become a universal law*
+
+AKA "What if everybody behaved like that?"
+
+Categorical: not contingent on one’s own desires (such imperatives
+Kant calls ‘hypothetical’) and not on the circumstances. It can't be dependent on the specific context.
+
+Kant’s idea: moral reasons are universally binding, irrespective of
+time, place, person.
+
+#### Example: lying, breaking a promise
+
+Can this be action guiding for you and can you at the same time want that everybody acts like this?
+
+Would be self defeating...
+
+### Categorical imperative (2)
+
+Humanity formulation
+
+*Act so that you treat humanity, whether in your own person or that in
+of another, always as an end and never as a means.*
+
+AKA: "You must treat people in the same way as yourself, as autonomous beings who set their own goals."
+
+Humans are fundamentally unlike commodities: they do not have a
+price. They have dignity.  
+
+This formulation also prohibits lying, breaking promises / contracts.
+Because then you treat another person only as an instrument for your
+own purposes.
+
+### How are (1) and (2) related?
+
