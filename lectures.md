@@ -515,14 +515,225 @@ Humanity formulation
 *Act so that you treat humanity, whether in your own person or that in
 of another, always as an end and never as a means.*
 
-AKA: "You must treat people in the same way as yourself, as autonomous beings who set their own goals."
+AKA: "You must treat people in the same way as yourself, as autonomous beings who set their own goals.", don't use people solely as an instrument to reach your own goals. So no slaves or supression.
 
 Humans are fundamentally unlike commodities: they do not have a
-price. They have dignity.  
+price. They have dignity, which is the central value for kantians.  
 
 This formulation also prohibits lying, breaking promises / contracts.
 Because then you treat another person only as an instrument for your
 own purposes.
 
 ### How are (1) and (2) related?
+
+Kant argued that various versions of the categorical imperative are equivalent.
+
+One argument: a rational creature must respect this distinguishing feature of himself, must respect his rational nature.
+
+### Criticism and discussion
+
+1. Absoluteness of moral rules. Aren't some lies sometimes permitted, e.g to diver a murderer? If Nazi's come and you have Jews hidden, you must tell the truth because of the universal rule that one should not Lie. The intention is good in general, but this outcome isn't good....
+2. Wellbeing/happiness does not have a moral status.
+  - Response: striving towards wellbeing is allowed, as long as it is not disallowed by the categorical imperative.
+3. Creatures who are less rational (children, animals, impaired) are not part of the moral community.
+4. What if rules conflict?
+
+
+Deontology: autonomy -> side constraint on -> individual rights
+
+Kantian ethics: philosophical foundation of universal human rights
+
+## Practical examples
+
+### Machine learning
+
+Useful to predict human behavior; prevent terrorist attacks; hire the best workers; diagnose illnesses etc.
+
+However, amplifies biases against minorities.
+
+Values to be protected or promoted: human lives, well-being, privacy
+
+How to weigh these?
+- Utilitarians: tradeoffs (if high enough benefit fuck privacy for example)
+- Kantian: Constraints (Human rights, privacy rights, certain personal boundaries may not be crossed for example)
+
+### Self driving cars
+
+- What if a fatal accident happens because the car makes a mistake? Who is then responsible? The car owner, the manufacturer, the designer?
+
+- Possibly a “Problem of Many Hands” (lecture 5)
+
+### Lessons from trolleyology?
+
+- What if an accident happens, and the only options are: steer to the left and kill a pedestrian or steer to the right and crash, thereby killing the two passengers?
+
+- Consequentialist and deontologist engineers will come up with different design specifications
+
+### May we hack a car?
+
+- With terrorists in it? -> lock the doors, slow the car down, stop it / drive it to the police station
+- For the benefit of us all, however, it is a violation of autonomy according to others
+- What if this capacity falls into bad hands? Utilitarians will may not allow this because of this reason.
+
+### Self organize in platoons
+
+By means of communications between cars
+
+- Reduces emissions and traffic jams
+- Loss of autonomy for the "driver"
+
+## Social Contract Theory
+
+Morality is social -> moral reasons of people are interdependent
+
+Morality= system of mutual expectations and preferences by which people can solve cooperation problems. as in n-person Prisoner's Dilemma problems
+
+most notably: provision of collective goods in society
+
+### Collective goods
+
+- Goods that can only be produced by cooperation
+- Once produced, everyone can benefit
+- Vulnerable to free riding
+- Examples: infrastructure, national defense, health care, dykes
+- Martin Tisne argues that data should be conceptualized as a collective good, and data ownership is a wrong idea.
+
+In a Prisoners Dilemma - e.g in material outcomes:
+ 
+- Individual rational to defect: Don't pay and still recieve
+- While Mutual cooperations among society is Paretor Superior.
+- All players have interest to get in mutual cooperation.
+- Problem: Mutual cooperation is not stable, not an equilibruim.
+- At the same time, players would have a collective reason to Cooperate.
+- Dervive from all this: *individual reason* to cooperate = moral reason
+
+Concludingly:
+
+- Social contract theorists: **Individual moral reason to cooperate is dependent on the expectation that others also cooperate.**
+- Kantists: Always cooperate, even if they expect others too exploit them
+
+
+### Thomas Hobbes
+
+founding father social contract theory
+
+His central question during Englands civil war: people must reach a mutual agreement to stop / avoid war of all against all. What set of rules and how to ensure that they are followed?
+
+War against all = state of nature = D,D
+
+### Central question in general
+
+- people must reach a mutual agreement to avoid suboptimal outcomes. What set of rules and how to ensure they are followed?
+- As multiple Nash Equilibriums exist: multiple solutions are possible
+- Law is a system of rules that reduce the various Nash equilibria
+  
+Martin Tisne:
+
+- Unrestricted use of data by everybody, would be bad for everybody
+  - Restricted use by everybody = cooperative outcome
+- Necessary: bill of data rights
+
+#### Tisne's proposal - bill of data rights
+
+- The right of the people to be secure against unreasonable surveillance shall not be violated
+ - No person shall have his or her behavior surreptitiously manipulated
+ - No person shall be unfairly discriminated against the basis of data
+  
+  PD situtations often have a repeated nature. In which case even egoistic people would cooperate. Why do we need social contract theory then??
+
+  well, still:
+  - often enough one shot (jackpot) situations
+  - often enough imperfect monitoring, registering, memorizing
+  - Moral motivation to cooperate enhances cooperation
+
+### Criticism and discussion
+
+  - Social contract is not real. We never sat down and signed a real contract right?
+    - Response: understand the social contract as hypotethical, see it as a convention.
+  - People / creatures who do not participate in cooperative project can also have moral status: future generations, cognitively impaired or animals.
+    - Response: other part of morality 
+
+### Hobbesian social contract theory
+
+- Derive moral rules from rational self interest (people are rational egoists)
+- Since cooperation problems are often negotiable and negatiations are sensitive to starting positions in real life:
+  - Wealth, goods, skills, everything you can bring to the bargaining table
+
+- Moral rules must therefore be **sensitive to various starting positions**
+
+### Non-Hobbesian: Hume, Rousseau
+
+- Morality is combination of utilitarian or Kantian motives & interdependency, not perse self-interest
+
+John Rawls: modern Kantian social contract theorist
+- *The resources and talents you bring to the bargaining table should not make a difference. They are morally arbitrary: should not play a role in designining just society.* 
+- *Therefore hypothesize contract situations as if everybody reasons behind a veil of ignorance: you don't have information about your resources.*
+
+Decision making under ignorance: Rawls: maximin
+
+Rawl's two principles of justice
+1. **Principle of Equal Liberty**: Each person has an equal right to the most extensive liberties compatible with similar liberties for all. 
+2. **Difference Principle**: Social and economic inequalities should be arranged so they are both (a) to the greatest benefit of the least advantaged persons, and (b) attached to offices and positions open to all under conditions of equality of oppurtunity.
+
+Basically how modern social democracies work.
+
+
+### Once more, self driving cars
+
+The social dillema of autonomous vehicles
+- Most people express moral preference for utilitarian AV's, that minimize casualties
+- Also preference for self protection vehicle for themselves
+- Prisoner's Dilemma: reason for government regulation
+- However, most people do not want the government to regulate this....
+
+
+# 5. Applications: Cost Benefit Analysis, Many Hands Problem
+
+## Social cost benefit analysis
+
+- Government must compare policy alternatives, e.g build a bridge or dig a tunnel
+- Compare in terms of future advantages and disadvantages
+- Use a metric to compare, most often money
+- Monitize all benefits and costs 
+- Recalculate to the same year (with interest rate)
+
+### Benefits and costs that do not have a market price
+
+- Casualties, wounded
+- CO2 emissions
+- Noise
+
+- Different methods!
+  - What are the costs if we reduce it? (How much would you pay each month for a forest?)
+  - Willingness to pay
+  - Willingness to accept
+
+### CBA of CBA....
+
+Pro's
+- Rationalizes public decision making
+- Less subjective
+- Forces one to include alll relevant considerations
+- Provides common ground
+
+Con's
+- Never complete
+- Some estimates are very uncertain
+
+
+### Determination: 130 km/h speedlimit increase
+
+|Benefit|Costs|
+|----|-----|
+|Travel time: average salary x time| Fuel costs
+|| Emissions: Plant trees
+|| Nature
+|| Deaths: 2 million per person
+|| Wounded: hospital costs
+|| Noise: costs of building noise barrier
+
+
+#### Weighing 
+
+#### The Actual 2011 report
 
